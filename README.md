@@ -14,6 +14,8 @@
 
 Nesse projeto vamos analisar o perfil das vítimas com base nos dados disponíveis, como idade, sexo, cidadania e local de residência. com intuito de identificar características comuns entre as vitimas. Vamos analisar também os meios pelo qual os individuos foram mortos. Determinar as armas ou métodos mais usados e avaliar o impacto.
 
+Os dados estão disponíveis no kaggle ([link](https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data)). O conjunto de dados registra mortes no conflito israelense-palestino  de 2000 a 2023.
+
 ## Tecnologias 🚀
 
 <div style="display: inline_block"><br/>
